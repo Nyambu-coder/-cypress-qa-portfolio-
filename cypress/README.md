@@ -14,7 +14,7 @@ A collection of automated end-to-end tests built with **Cypress**, demonstrating
 
 ## Sample run
 
-![Homepage test screenshot](docs/homepage-view.png)
+![Homepage test screenshot](Docs/homepage-view.png)
 
 ## How to run these tests
 
