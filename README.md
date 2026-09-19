@@ -12,9 +12,6 @@ A collection of automated end-to-end tests built with **Cypress**, demonstrating
 - Cypress (JavaScript/TypeScript E2E testing framework)
 - Node.js / npm
 
-## Sample run
-
-![Homepage test screenshot](screenshots/homepage-view.png)
 
 ## How to run these tests
 
